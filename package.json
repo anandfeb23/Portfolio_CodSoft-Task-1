@@ -4,8 +4,10 @@
   "description": "This is my first Portfolio Website",
   "scripts": {
     "start": "parcel ./index.html",
+    "build": "parcel build ./index.html",
     "test": "jest"
   },
+  
   "author": "Himanshu Anand",
   "license": "ISC",
   "devDependencies": {
